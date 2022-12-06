@@ -1,4 +1,4 @@
-package com.shrueekatech.ShrueeKaTechPhneBookApp.entities;
+package com.shrueekatech.ShrueeKaTechPhneBookApp.Entities;
 
 import javax.persistence.Entity;
 

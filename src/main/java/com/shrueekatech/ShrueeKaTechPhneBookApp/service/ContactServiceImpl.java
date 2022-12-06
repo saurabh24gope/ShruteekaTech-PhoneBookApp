@@ -1,4 +1,4 @@
-package com.shrueekatech.ShrueeKaTechPhneBookApp.service;
+package com.shrueekatech.ShrueeKaTechPhneBookApp.Service;
 
 public class ContactServiceImpl {
 
